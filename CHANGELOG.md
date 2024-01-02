@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.0.28](https://github.com/k8sgpt-ai/k8sgpt-operator/compare/v0.0.27...v0.0.28) (2024-01-02)
+
+
+### Features
+
+* Add license scan report and status ([#298](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/298)) ([f58daae](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/f58daae0572eacba80241ec6cfa34998b7fe8ed6))
+* add nodeSelector to Chart and k8sgpt-operator ([#292](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/292)) ([c008d22](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/c008d221bc03c847c18acdbda0a3c585626bd4cf))
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/prometheus/client_golang to v1.18.0 ([#301](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/301)) ([e088e15](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/e088e152597f9e927f101319030026d547bab5c5))
+* **deps:** update module google.golang.org/grpc to v1.60.1 ([#293](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/293)) ([8d5e5cd](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/8d5e5cdbbfb0cb846f001059f4fedf3f59be7c62))
+
+
+### Other
+
+* **deps:** update actions/setup-python action to v5 ([#287](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/287)) ([a9bc7bf](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/a9bc7bf55a14d65499249985d1ff5933e57cb217))
+* **deps:** update actions/upload-artifact action to v4 ([#296](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/296)) ([5bedad6](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/5bedad6a6c91960871d2c929ca91ef1eea636c95))
+* **deps:** update anchore/sbom-action action to v0.15.2 ([#305](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/305)) ([efc169f](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/efc169f68d7c7b5c52fc6501367bd9276e02df1c))
+* **deps:** update google-github-actions/release-please-action digest to cc61a07 ([#297](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/297)) ([5921187](https://github.com/k8sgpt-ai/k8sgpt-operator/commit/592118770ec1b5b04e04f9375311a0f109aaa922))
+
 ## [0.0.27](https://github.com/k8sgpt-ai/k8sgpt-operator/compare/v0.0.26...v0.0.27) (2023-12-14)
 
 
